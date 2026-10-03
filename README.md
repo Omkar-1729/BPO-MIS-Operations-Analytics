@@ -32,7 +32,7 @@ The analysis focuses on key BPO operational metrics such as:
 
 Provides an executive-level overview of major operational KPIs, including ticket volume, resolution, backlog, AHT, SLA, CSAT, escalations, and attendance.
 
-![Executive Overview](dashboardpage1.png)
+![Executive Overview](dashboard%20page%201.png)
 
 ### 2. Workload & Category Analysis
 
@@ -40,8 +40,7 @@ Analyzes category-level workload, service quality, and agent performance.
 
 **Category Volume | Service Quality | Agent Performance**
 
-![Workload & Category Analysis](dashboardpage2.png)
-
+![Workload & Category Analysis](dashboard%20page%202.png)
 ## Key Analysis Areas
 
 ### Operational Performance
